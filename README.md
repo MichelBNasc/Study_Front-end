@@ -1,4 +1,4 @@
-# Study Front-end 
+# | Study Front-end |
 
 
 
